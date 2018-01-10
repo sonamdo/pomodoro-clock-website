@@ -1,0 +1,33 @@
+header {
+  font: "arial";
+  font-weight: bold;
+  color: black;
+}
+
+#btn{
+  background-color: #F7B733;
+  border: none;
+}
+
+#reset{
+   background-color: #F7B733;
+  border: none;
+}
+
+#plus{
+  background-color: #F7B733;
+  border: none;
+}
+
+#minus{
+  background-color: #F7B733;
+  border: none;
+}
+
+body{
+  text-align: center;
+  font:"arial";
+  color: white;
+  background-color: #F7B733;
+  font-family: sans-serif;
+}
